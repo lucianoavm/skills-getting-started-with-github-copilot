@@ -87,6 +87,19 @@ section h3 {
   line-height: 1.4; /* Improved line spacing */
 }
 
+.participants-list {
+  margin-top: 10px;
+  padding-left: 20px;
+  list-style-type: disc;
+  color: #333; /* Updated color for better visibility */
+  font-size: 14px; /* Adjusted font size for better readability */
+}
+
+.participants-list li {
+  margin-bottom: 5px;
+  line-height: 1.4; /* Improved line spacing */
+}
+
 .form-group {
   margin-bottom: 15px;
 }
